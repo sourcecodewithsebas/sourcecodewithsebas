@@ -6,5 +6,5 @@
     
 <h2>📄 Certifications:</h2>
 
-- [Google IT Support Professional]([https://www.coursera.org/account/accomplishments/professional-cert/H8LFUVKEX3LU]
+- [Google IT Support Professional]([https://www.coursera.org/account/accomplishments/professional-cert/H8LFUVKEX3LU)
   
