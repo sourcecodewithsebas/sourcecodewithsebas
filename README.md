@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sebastian!
+<h1> 👋🏾 Hi, I'm Sebastian!
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
