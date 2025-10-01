@@ -1,4 +1,6 @@
 <h1> 👋🏾 Hi, I'm Sebastian!
+
+  -Cybersecurity • Software Engineering • IT Operations
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
