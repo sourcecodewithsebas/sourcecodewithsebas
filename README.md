@@ -1,7 +1,11 @@
-<h1> 👋🏾 Hi, I'm Sebastian!
+# 👋🏾 Hi, I'm Sebastian
 
-  -Cybersecurity • Software Engineering • IT Operations
-  
+**`Cybersecurity • Software Engineering • IT Operations`**
+
+Welcome to my GitHub! I’m passionate about exploring technology—building, testing, and dissecting systems to understand how they work and how to secure them. Here, I share my journey, hands-on cybersecurity labs, and projects, while connecting with others who share my enthusiasm for tech.
+
+Feel free to explore my repositories and reach out if you’d like to connect or collaborate!
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/sourcecodewithsebas/ActiveDirectoryLab/tree/main)    
