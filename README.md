@@ -10,7 +10,7 @@ Feel free to explore my repositories and reach out if you’d like to connect or
 
   - [Active Directory Home Lab](https://github.com/sourcecodewithsebas/ActiveDirectoryLab/tree/main)
   - [Wazuh-SIEM Home Lab](https://github.com/sourcecodewithsebas/wazuh-siem-lab)
-  - [SafeLine Web Application Firewall](https://github.com/sourcecodewithsebas/wazuh-siem-lab)   
+  - [SafeLine Web Application Firewall Lab](https://github.com/sourcecodewithsebas/SafeLine-Web-Application-Firewall)   
 <h2>📄 Certifications:</h2>
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/H8LFUVKEX3LU)
