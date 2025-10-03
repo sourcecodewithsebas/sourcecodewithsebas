@@ -8,7 +8,8 @@ Feel free to explore my repositories and reach out if you’d like to connect or
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/sourcecodewithsebas/ActiveDirectoryLab/tree/main)    
+  - [Active Directory Home Lab](https://github.com/sourcecodewithsebas/ActiveDirectoryLab/tree/main)
+  - [Wazuh-SIEM Home Lab](https://github.com/sourcecodewithsebas/ActiveDirectoryLab/tree/main)  
 <h2>📄 Certifications:</h2>
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/H8LFUVKEX3LU)
